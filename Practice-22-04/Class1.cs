@@ -32,7 +32,7 @@ namespace Practice_22_04
         }
     }
 
-    public class ShowPwdInfo : PwdInfo
+    public class ShowPwdInfo : PwdInfo    //class PwdInfo can't be inherited because it is sealed
     {
         public static void showPwd()
         {
