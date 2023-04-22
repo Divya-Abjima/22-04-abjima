@@ -1,0 +1,15 @@
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\bin\Debug\net6.0\Practice-22-04.exe
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\bin\Debug\net6.0\Practice-22-04.deps.json
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\bin\Debug\net6.0\Practice-22-04.runtimeconfig.json
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\bin\Debug\net6.0\Practice-22-04.dll
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\bin\Debug\net6.0\Practice-22-04.pdb
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\Practice-22-04.csproj.AssemblyReference.cache
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\Practice-22-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\Practice-22-04.AssemblyInfoInputs.cache
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\Practice-22-04.AssemblyInfo.cs
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\Practice-22-04.csproj.CoreCompileInputs.cache
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\Practice-22-04.dll
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\refint\Practice-22-04.dll
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\Practice-22-04.pdb
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\Practice-22-04.genruntimeconfig.cache
+C:\Users\DivyaUdayan\source\repos\Practice-22-04\obj\Debug\net6.0\ref\Practice-22-04.dll
