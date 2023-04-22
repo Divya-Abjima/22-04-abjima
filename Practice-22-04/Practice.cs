@@ -18,6 +18,7 @@ namespace Practice_22_04
             string name = "Divya";
             ChildClass2.printName(name);
             ChildClass.greeting(name);
+            PwdInfo.pwdInfo();
         }
     }
     public struct Student

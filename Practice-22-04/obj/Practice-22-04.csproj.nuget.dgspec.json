@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DivyaUdayan\\source\\repos\\Practice-22-04\\Practice-22-04.csproj": {}
+    "C:\\Users\\DivyaUdayan\\Source\\Repos\\22-04-abjima\\Practice-22-04\\Practice-22-04.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DivyaUdayan\\source\\repos\\Practice-22-04\\Practice-22-04.csproj": {
+    "C:\\Users\\DivyaUdayan\\Source\\Repos\\22-04-abjima\\Practice-22-04\\Practice-22-04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DivyaUdayan\\source\\repos\\Practice-22-04\\Practice-22-04.csproj",
+        "projectUniqueName": "C:\\Users\\DivyaUdayan\\Source\\Repos\\22-04-abjima\\Practice-22-04\\Practice-22-04.csproj",
         "projectName": "Practice-22-04",
-        "projectPath": "C:\\Users\\DivyaUdayan\\source\\repos\\Practice-22-04\\Practice-22-04.csproj",
+        "projectPath": "C:\\Users\\DivyaUdayan\\Source\\Repos\\22-04-abjima\\Practice-22-04\\Practice-22-04.csproj",
         "packagesPath": "C:\\Users\\DivyaUdayan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DivyaUdayan\\source\\repos\\Practice-22-04\\obj\\",
+        "outputPath": "C:\\Users\\DivyaUdayan\\Source\\Repos\\22-04-abjima\\Practice-22-04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DivyaUdayan\\AppData\\Roaming\\NuGet\\NuGet.Config",
