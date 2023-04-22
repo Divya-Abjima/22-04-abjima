@@ -22,9 +22,26 @@ namespace Practice_22_04
             Console.WriteLine("Hello "+name);
         }
     }
+    
+    public sealed class PwdInfo : Class1
+    {
+        public static void pwdInfo()
+        {
+            string username = "divya0729";
+            string pwd = "this ain't a password";
+        }
+    }
+
+    public class ShowPwdInfo : PwdInfo
+    {
+        public static void showPwd()
+        {
+            Console.WriteLine(username + " " + pwd);
+        }
+    }
     public class ChildClass2 : Class1
     {
-        public override void printName(string name)
+        public static void printName(string name)
         {
             name = Console.ReadLine();
             Console.WriteLine(name);
